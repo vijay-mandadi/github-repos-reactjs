@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.inactive-btn {
+  background-color: transparent;
+  border: 0px;
+  font-family: 'Roboto';
+  color: #0f172a;
+  font-weight: 600;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  font-family: 'Roboto';
+  border-radius: 10px;
+  background-color: transparent;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+}
+
+.listitem {
+  margin: 10px;
+  cursor: pointer;
+}
